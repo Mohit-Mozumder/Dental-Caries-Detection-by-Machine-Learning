@@ -13,7 +13,7 @@ var infer = function() {
 			$('#output').html("").append([
 				"Error loading response.",
 				"",
-				"Check your API key, model, version,",
+				"Check your Connection, model,",
 				"and other parameters",
 				"then try again."
 			].join("\n"));
